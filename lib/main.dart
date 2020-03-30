@@ -1,3 +1,4 @@
+import 'package:disenos_app/src/pages/graficas_cirulares_page.dart';
 import 'package:disenos_app/src/pages/headers_page.dart';
 import 'package:flutter/material.dart';
  
